@@ -6,6 +6,7 @@ __pycache__/
 새 폴더/
 
 *.zip
+*.spec
 
 MMR_API.py
 KEY.json
