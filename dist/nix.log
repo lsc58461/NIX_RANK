@@ -1,0 +1,16 @@
+2023-03-18 04:17:44,570 - nextcord.client - INFO - logging in using static token
+2023-03-18 04:17:45,169 - nextcord.gateway - INFO - Shard ID None has sent the IDENTIFY payload.
+2023-03-18 04:17:45,484 - nextcord.gateway - INFO - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-gjhm",{"micros":116173,"calls":["id_created",{"micros":2033,"calls":[]},"session_lookup_time",{"micros":8008,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-blue-prd-2-20",{"micros":105273,"calls":["start_session",{"micros":73359,"calls":["discord-api-5dfb47f958-b2hjp",{"micros":64542,"calls":["get_user",{"micros":19110},"get_guilds",{"micros":5103},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":4514},"authorized_ip_coro",{"micros":10}]}]},"starting_guild_connect",{"micros":72,"calls":[]},"presence_started",{"micros":1550,"calls":[]},"guilds_started",{"micros":153,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":30107,"calls":[]},"connect_finished",{"micros":30112,"calls":[]},"build_ready",{"micros":23,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 511680338e8e15bfd55597adaa138315). Resume URL specified as wss://gateway-us-east1-c.discord.gg
+2023-03-18 04:18:08,992 - root - INFO - https://kr.api.riotgames.com/lol/summoner/v4/summoners/IOduua1jI-J76J8tXOWKLn0RAROAIpgcdjP52VpAsqGLeWk?api_key=RGAPI-090dad62-3ca4-4a2e-9e01-24b169885746
+2023-03-18 04:18:08,992 - root - INFO - 2023≥‚ 03ø˘ 18¿œ 04Ω√ 18∫– 08√ )  http://ddragon.leagueoflegends.com/cdn/13.3.1/img/profileicon/4904.png
+
+2023-03-18 04:18:11,278 - root - INFO - get_recent_matches_time:0.8219139575958252√ 
+
+2023-03-18 04:18:19,282 - root - INFO - next_callback : ¡§¿±#8014
+
+2023-03-18 04:18:22,536 - root - INFO - previous_callback : ¡§¿±#8014
+
+2023-03-18 04:18:28,286 - root - INFO - next_callback : ¡§¿±#8014
+
+2023-03-18 04:18:30,009 - root - INFO - previous_callback : ¡§¿±#8014
+
