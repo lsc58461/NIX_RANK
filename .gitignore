@@ -1,9 +1,11 @@
-## 폴더 무시
+
 test/
 build/
 __pycache__/
 .vscode/
 새 폴더/
+
+*.zip
 
 MMR_API.py
 KEY.json
